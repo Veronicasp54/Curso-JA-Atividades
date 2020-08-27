@@ -1,0 +1,191 @@
+html{
+
+}
+
+body{
+    
+
+}
+
+img{
+    max-height:250px;
+    width: auto;
+    height: auto;
+    border:4px solid #000;
+    margin: 10px;
+}
+
+p{
+    font-size: 1.1em;
+    text-align: left;
+}
+
+#container{
+    height: 100%;
+    width: 80%;
+    padding: 60px;
+
+}
+
+#cabecalho{
+    text-align: center;
+    background-color: #e67300;
+    color: cornsilk;
+    padding: 6px;
+    -moz-border-radius:7px;
+    -webkit-border-radius:7px;
+    border-radius:7px;
+}
+
+#cabecalho h1{
+    font-size: 2.6em;
+}
+
+#cabecalho p{
+    text-align: center;
+
+}
+
+#linha-um{
+    width: 100%;
+    display: inline-block;
+    background-color: #ffe6b3;
+    margin-top: 3px;
+    
+}
+
+#coluna-um{
+    width: 60%;
+    text-align: left;
+    float: left;
+    display: inline-block;
+    align-content: center;
+    margin-left: 40px;
+    margin-top: 20px;
+
+}
+
+#colun-um-div-um{
+    width: 100%;
+    display: inline-block;
+
+}
+.imagem-um{
+    width: 56%;
+    float: right;
+    
+}
+.div-um{
+    float: left;
+    width: 44%;
+}
+
+.div-um h2{
+    text-align: center;
+    margin-right: 80px;
+}
+
+.div-um P{
+    text-align: center;
+    margin-right: 80px;
+}
+
+
+#colun-um-div-dois{
+    width: 100%;
+    display: inline-block;
+
+}
+
+.imagem-dois{
+    width: 56%;
+    float: right;
+
+}
+
+.div-dois{
+    float: left;
+    width: 44%;
+
+}
+
+
+#coluna-dois{
+    width: 36%;
+    text-align: center;
+    float:right;
+    margin-top: 20px;
+
+}
+
+#linha-dois{
+    width: 100%;
+    display: inline-block;
+    background-color: #ffe6b3;
+}
+
+.div-quatro{    
+    width: 100%;
+}
+
+.div-quatro p{    
+    text-align: center;
+}
+
+.imagem-tres{
+    width: 42%;
+    float: left;
+    
+}
+
+.div-cinco{    
+    width: 27%;
+    float: right;
+
+}
+.div-seis{
+    width: 30%;
+    float: right;
+
+
+}
+
+#linha-tres{
+    width: 100%;
+    display: inline-block;
+    background-color: #ffe6b3;
+}
+
+.imagem-quatro{
+    width: 42%;
+    float: left;
+
+
+}
+.div-sete{    
+    width: 23%;
+    float: left;
+    align-items: center;
+
+}
+
+
+.imagem-cinco{
+    width: 34%;
+    float: right;
+  
+}
+
+#rodape{
+    background-color: #e67300;
+    color: cornsilk;
+    padding: 6px;
+    -moz-border-radius:7px;
+    -webkit-border-radius:7px;
+    border-radius:7px;
+}
+
+#rodape p{
+    text-align: center;
+
+}
